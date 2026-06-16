@@ -1,1 +1,6 @@
-NYC 311 Customer Servive Requests
+Dataset Source:
+NYC Open Data – 311 Service Requests Dataset
+
+Note:
+The original dataset is not included in this repository due to its large file size.
+It can be downloaded from the official NYC Open Data portal.
