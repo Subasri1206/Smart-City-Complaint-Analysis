@@ -1,0 +1,12 @@
+## Requirements
+
+The project requires the following Python libraries:
+
+-✅ pandas
+-✅ numpy
+-✅ matplotlib
+-✅ seaborn
+-✅ plotly
+-✅ folium
+-✅ scikit-learn
+-✅ jupyter
