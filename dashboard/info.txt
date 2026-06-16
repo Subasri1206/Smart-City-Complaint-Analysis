@@ -1,1 +1,1 @@
-NYC_Complaint_Analysis Dashboard
+Due to file size limitations, the Power BI dashboard file is not included. Dashboard screenshots are provided in the images folder.
