@@ -1,8 +1,6 @@
 NYC 311 Complaint Analysis – Smart City Complaint Analysis Project
 1.🗺️ 📌 Problem Statement
-Urban cities face a large number of daily civic complaints such as noise issues, illegal parking, blocked driveways, street damage, and other public service problems. Managing and resolving these complaints efficiently is a major challenge for city authorities.
-The goal of this project is to analyze NYC 311 complaint data to identify major problem patterns, detect hotspot areas, evaluate service performance, and provide data-driven recommendations for improving city management and citizen satisfaction.
-This project helps in building a Smart City Analytics System using real-world data.
+Urban cities face a large number of daily civic complaints such as noise issues, illegal parking, blocked driveways, street damage, and other public service problems. Managing and resolving these complaints efficiently is a major challenge for city authorities.The goal of this project is to analyze NYC 311 complaint data to identify major problem patterns, detect hotspot areas, evaluate service performance, and provide data-driven recommendations for improving city management and citizen satisfaction. This project helps in building a Smart City Analytics System using real-world data.
 
 2.💡 📌 Dataset Description
 The dataset used in this project is the NYC 311 Service Requests Dataset, which contains complaints raised by citizens of New York City.
